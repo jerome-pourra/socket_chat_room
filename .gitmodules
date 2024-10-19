@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jerome-pourra/socket_chat_room_backend.git
